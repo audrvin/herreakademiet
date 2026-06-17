@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/paige"]
+	path = themes/paige
+	url = https://github.com/willfaught/paige
+[submodule "themes/sugo"]
+	path = themes/sugo
+	url = https://github.com/psugam/sugo
