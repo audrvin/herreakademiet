@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Herreakademiets Boganmælderforening</title>
-		<link>http://localhost:1313/</link>
+		<link>http://localhost:1313/herreakademiet/</link>
 		<description>Recent content on Herreakademiets Boganmælderforening</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/herreakademiet/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My First Post</title>
-				<link>http://localhost:1313/post/my-first-post/</link>
+				<link>http://localhost:1313/herreakademiet/post/my-first-post/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/post/my-first-post/</guid>
+				<guid>http://localhost:1313/herreakademiet/post/my-first-post/</guid>
 				<description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;em&gt;my first post&lt;/em&gt;!&lt;/p&gt;</description>
 			</item>
 	</channel>
