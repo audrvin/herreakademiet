@@ -14,11 +14,32 @@
 		
 			<atom:link href="http://localhost:1313/herreakademiet/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>My First Post</title>
-				<link>http://localhost:1313/herreakademiet/post/my-first-post/</link>
+				<title>Gift</title>
+				<link>http://localhost:1313/herreakademiet/post/gift/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/herreakademiet/post/my-first-post/</guid>
-				<description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;em&gt;my first post&lt;/em&gt;!&lt;/p&gt;</description>
+				<guid>http://localhost:1313/herreakademiet/post/gift/</guid>
+				<description>&lt;p&gt;GIFT (1883), skrevet af Alexander Lange Kielland, anmældet af Henriks Castor Morgenstierne.&lt;/p&gt;&#xA;&lt;p&gt;Det er meg en stor tungsinnethet, at her nedtegne en Anmældelse af Alexander Kiellands kontroværse &amp;ldquo;Gift&amp;rdquo;. Bogen, der synes at ha som eneste maal at karikere det moderne norske Samfund, gaar dessverre for langt i sin fremstilling af umoral og fordervelse.&lt;/p&gt;&#xA;&lt;p&gt;Kielland beskriver Figurene i Bogen som kyniske og egoistiske, og deres handlinge ere preget af graadighet og forfall. Fortællingen følger en ung mann ved navn Gustav, der gifter seg med en kvinne ved navn Laura, selv om han egentlig ere forælsked i hennes venninde, Rebekka. Denne Trekant fører til en rægge intrige og utskeielser, og til slutt ænder det hele i Tragedie.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Macbeth</title>
+				<link>http://localhost:1313/herreakademiet/post/macbeth/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/herreakademiet/post/macbeth/</guid>
+				<description>&lt;p&gt;MACBETH af William Shakespeare.&lt;/p&gt;&#xA;&lt;p&gt;Anmældet af Georg Pollux Behrentz.&lt;/p&gt;&#xA;&lt;p&gt;Der fantes en Tid da Engelskmanden havede Væt til at lae Latin og Fransk optræde som den britanniske Digtekunsts Sprog. I de senere Aarhundre haver der derimot været et tiltagende Antal anglosaxiske Digtere der haver insisteret paa at bruge sit Folkesprog til dette Formaal. Den mest kændte af disse Digtere er William Shakespeare, en Forfatter der først og fræmst er yndet af Gymnasiaster, og der ogsaa holdes meget højt af Samfundets lavere Lag. I den akademiske Discours, derimot, haver han i det store og hele blivet oversæt.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Peer Gynt</title>
+				<link>http://localhost:1313/herreakademiet/post/peergynt/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/herreakademiet/post/peergynt/</guid>
+				<description>&lt;p&gt;PEER GYNT AV Henrik Ibsen. 1867.&lt;/p&gt;&#xA;&lt;p&gt;Anmældet av Henriks Castor Morgenstierne.&lt;/p&gt;&#xA;&lt;p&gt;Henrik Ibsens nye dramatiske Digte «Peer Gynt», som for nogen Tid siden ere udkommet paa den Gyldendalske Boghandels Forlag, har taget sit første Udgangspunkt og Navnet paa sin Helt fra et gammelt norsk Folkeæventyr. I Asbjørnsens Huldre-Æventyr findes en Fortælling, der i sammentrængt Oversættelse lyder saaledes: Der var i gamle Dage en Skytte ved Navn Peer Gynt, der altid laae oppe paa Fjeldet og skjød Bjørne og Elsdyr, eller noget i den Rætning. Denne «Peer» ere ei mer end en folkelig Lurendreie, hvis hæselige Vesen godt reflekterer den udannede Masse. Den samme Peer udstaaer nu overhovedet mange Dyster med Trolde og Utysker, han fordriver de Trolde, som bor sammen med de ovennævnte Sæterpiger, han rydder en Gaard paa Dovre for Troldtøi, og forresten hedder det om ham: «Den Peer Gynt var En for sig selv, en rigtig Eventyrmager og Løgnesmed. Han fortalte altid at han selv havde været med i de Historier, som Folk sagde var hændt i gamle Dage.» Af disse og endnu adskillige andre Smaatræk har det Ibsenske Drama udfoldet sig, og man kan tidt, som f. Ex. ligeoverfor de her fremsatte Elementer, ikke Andet end at undre over, hvor hen dypt inde i Vinrusen Ibsen maa have seget, for at forfatte slik et Sammensurium. Som man rober i Skogen faaer man Svar, og her ere mye robing og endu mere Skog.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Villanden</title>
+				<link>http://localhost:1313/herreakademiet/post/villanden/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/herreakademiet/post/villanden/</guid>
+				<description>&lt;p&gt;VILDANDEN af Henrik Ibsen&lt;/p&gt;&#xA;&lt;p&gt;Anmældet af Georg Pollux Behrentz&lt;/p&gt;&#xA;&lt;p&gt;Mit sind er oprevet af denne såkaldte &amp;ldquo;Vildanden&amp;rdquo; af Henrik Ibsen, et værk så uforskammet og vildsomt, at det står i skærende kontrast til den klassisistiske orden, som enhver ægte adelsmand holder kær.&lt;/p&gt;&#xA;&lt;p&gt;I stedet for at følge de velkendte regler for plotopbygning og karakterudvikling, kaster Ibsen os ud i et kaotisk drama, hvor karaktererne er dekadente og moralsk fordærvede. Den centrale karakter, Gregers Werle, er en naragtig og selvransagende nar, der misforstår sandheden og med sine vrøvlige tanker forvrider sandheden på en ubehagelig måde. Han er en stakkel uden moral eller etikette, der prædiker om moral og dyd, men i virkeligheden kun skaber forvirring og kaos.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>
