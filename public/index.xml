@@ -5,7 +5,7 @@
 		<link>http://localhost:1313/herreakademiet/</link>
 		<description>Recent content on Herreakademiets Boganmælderforening</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>no-nb</language>
 		
 		
 		
@@ -19,6 +19,20 @@
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/herreakademiet/post/my-first-post/</guid>
 				<description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;em&gt;my first post&lt;/em&gt;!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/herreakademiet/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/herreakademiet/about/</guid>
+				<description>&lt;p&gt;Welcome to Herreakademiets Boganmelderforening.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Arkivet</title>
+				<link>http://localhost:1313/herreakademiet/archives/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/herreakademiet/archives/</guid>
+				<description>&lt;p&gt;Her skal I finde alle Anmældelser, der er blivet skrevet av vaar Redaktion!&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
