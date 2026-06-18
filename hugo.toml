@@ -1,4 +1,4 @@
-baseURL = "https://audrvin.github.io/herreakademiet/"
+baseURL = "https://www.herreakademiet.no"
 locale = 'no-nb'
 title = 'Herreakademiets Boganmælderforening'
 theme = "sugo"
