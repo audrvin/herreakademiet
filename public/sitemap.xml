@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/herreakademiet/post/gift/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/herreakademiet/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/herreakademiet/post/my-first-post/</loc>
+    <loc>http://localhost:1313/herreakademiet/post/macbeth/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/herreakademiet/post/peergynt/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/herreakademiet/post/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/herreakademiet/post/villanden/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/herreakademiet/about/</loc>
@@ -17,8 +26,8 @@
   </url><url>
     <loc>http://localhost:1313/herreakademiet/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/herreakademiet/categories/</loc>
+    <loc>http://localhost:1313/herreakademiet/kategorie/</loc>
   </url><url>
-    <loc>http://localhost:1313/herreakademiet/tags/</loc>
+    <loc>http://localhost:1313/herreakademiet/knagge/</loc>
   </url>
 </urlset>

@@ -49,21 +49,21 @@
         
 
         
-            <link>http://localhost:1313/categories/</link>
+            <link>http://localhost:1313/tags/</link>
         
 
         
-            <atom:link href="http://localhost:1313/categories/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/tags/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/categories/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/tags/" hreflang="en-us" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/categories/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/tags/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -71,7 +71,7 @@
         
 
         
-            <title>Categories · Herreakademiets Boganmælderforening</title>
+            <title>Tags · Herreakademiets Boganmælderforening</title>
         
 
         

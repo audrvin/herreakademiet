@@ -8,8 +8,8 @@ theme = "sugo"
     dir = ':cacheDir/images'
 
 [taxonomies]
-tag = "tags"
-category = "categories"
+tag = "knagge"
+category = "kategorie"
 author = "authors"
 
 [menus]
@@ -25,23 +25,23 @@ weight = 20
 
 [[menus.main]]
 name = 'Knagge'
-pageRef = '/tags'
+pageRef = '/knagge'
 weight = 30
 
 [[menus.main]]
 name = 'Kategorie'
-pageRef = '/categories'
+pageRef = '/kategorie'
 weight = 40
 
 [[menus.main]]
 name = 'Arkiv'
-pageRef = '/archives'
+pageRef = '/archive'
 weight = 50
 
 
 [[menus.main]]
 name = 'Om oss'
-pageRef = '/about'
+pageRef = '/om'
 weight = 60
 
 [permalinks]
@@ -61,7 +61,7 @@ threshold = 80
 toLower = true
 
 [[related.indices]]
-name = "tags"
+name = "knagge"
 weight = 100
 
 [[related.indices]]
@@ -129,8 +129,8 @@ fontPreconnectPrimary = "https://fonts.googleapis.com"
 fontPreconnectSecondary = "https://fonts.gstatic.com"
 fontStylesheetHref = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@400;500;700&family=Libre+Baskerville:wght@400;700&display=swap"
 mathJaxScript = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
-homeEditorHeading = "From the Editor"
-homeFeaturedEyebrow = "Featured Story"
+homeEditorHeading = "Fra Rædaktøren"
+homeFeaturedEyebrow = "Fremtrukked Anmældning"
 homeFeaturedCta = "Læs"
 homeLatestEyebrow = "Siste Skriverier"
 homeLatestHeading = "Nylige Artikle"
@@ -145,7 +145,7 @@ tocStartLevel = 2
 tocEndLevel = 4
 tocOrdered = false
 articleFallbackType = "Artikkel"
-articleByLabel = "By"
+articleByLabel = "af"
 articlePublishedLabel = "Publisered"
 articleUpdatedLabel = "Oppdatered"
 articleReadingTimeLabel = "Reading time"
@@ -175,7 +175,7 @@ shortcodeCodeFailedLabel = "Failed"
 [params.ui.taxonomyLabels]
 categories = "Kategorie"
 tags = "Knagge"
-authors = "Authors"
+authors = "Forfattere"
 
 [params.archive]
 sections = ["posts"]
