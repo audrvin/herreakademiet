@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "Om oss"
 ---
 
-Welcome to Herreakademiets Boganmelderforening.
+Velkommen til Herreakademiets Boganmelderforening.
+
+![Bilde](/images/litenanmælding.png)
